@@ -1,0 +1,54 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap youtube.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-05 19:12 UTC
+Nmap scan report for youtube.com (142.251.33.174)
+Host is up (0.0023s latency).
+Other addresses for youtube.com (not scanned): 2607:f8b0:400b:80c::200e
+rDNS record for 142.251.33.174: yyz10s17-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.05 seconds
+
+-----------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80 youtube.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-05 19:14 UTC
+Nmap scan report for youtube.com (142.251.33.174)
+Host is up (0.0017s latency).
+Other addresses for youtube.com (not scanned): 2607:f8b0:400b:80c::200e
+rDNS record for 142.251.33.174: yyz10s17-in-f14.1e100.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds
+-----------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80-433 youtube.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-05 19:15 UTC
+Nmap scan report for youtube.com (142.251.33.174)
+Host is up (0.0023s latency).
+Other addresses for youtube.com (not scanned): 2607:f8b0:400b:80c::200e
+rDNS record for 142.251.33.174: yyz10s17-in-f14.1e100.net
+Not shown: 353 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.60 seconds
+
+-----------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F youtube.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-05 19:16 UTC
+Nmap scan report for youtube.com (142.251.33.174)
+Host is up (0.0020s latency).
+Other addresses for youtube.com (not scanned): 2607:f8b0:400b:80c::200e
+rDNS record for 142.251.33.174: yyz10s17-in-f14.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.09 seconds

@@ -1,0 +1,264 @@
+1) Whois information for google.ca:
+---------------------------------------
+Domain Name: google.ca
+Registry Domain ID: D73081-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2024-03-27T10:08:44Z
+Creation Date: 2000-10-04T02:21:23Z
+Registry Expiry Date: 2025-04-28T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 106113561-CIRA
+Registrant Name: Google Canada Corporation
+Registrant Organization: Google Canada Corporation
+Registrant Street: 12-111 Richmond St. W
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5H2G4
+Registrant Country: CA
+Registrant Phone: +1.4162146034
+Registrant Email: email@google.com
+Registry Admin ID: 105817359-CIRA
+Admin Name: Rajiv Prasad
+Admin Organization: Google Canada Corporation
+Admin Street: 12-111 Richmond St W
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5H2G4
+Admin Country: CA
+Admin Phone: +1.4162146034
+Admin Email: email@google.com
+Registry Tech ID: 105817359-CIRA
+Tech Name: Rajiv Prasad
+Tech Organization: Google Canada Corporation
+Tech Street: 12-111 Richmond St W
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5H2G4
+Tech Country: CA
+Tech Phone: +1.4162146034
+Tech Email: email@google.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+
+2)Whois information for linkedin.com:
+---------------------------------------
+Domain Name: linkedin.com
+Registry Domain ID: 91818680_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-11-29T19:30:42+0000
+Creation Date: 2002-11-02T15:38:11+0000
+Registrar Registration Expiration Date: 2024-11-02T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID:
+Registrant Name: Domain Administrator
+Registrant Organization: LinkedIn Corporation
+Registrant Street: 1000 W. Maude Ave
+Registrant City: Sunnyvale
+Registrant State/Province: CA
+Registrant Postal Code: 94085
+Registrant Country: US
+Registrant Phone: +1.6506873600
+Registrant Fax: +1.6506870505
+Registrant Email: email@linkedin.com
+Admin Name: Domain Administrator
+Admin Organization: LinkedIn Corporation
+Admin Street: 1000 W. Maude Ave
+Admin City: Sunnyvale
+Admin State/Province: CA
+Admin Postal Code: 94085
+Admin Country: US
+Admin Phone: +1.6506873600
+Admin Fax: +1.6506870505
+Admin Email: email@linkedin.com
+Tech Name: Domain Administrator
+Tech Organization: LinkedIn Corporation
+Tech Street: 1000 W. Maude Ave
+Tech City: Sunnyvale
+Tech State/Province: CA
+Tech Postal Code: 94085
+Tech Country: US
+Tech Phone: +1.6506873600
+Tech Phone Ext:
+Tech Fax: +1.6506870505
+Tech Email: email@linkedin.com
+Name Server: dns2.p09.nsone.net
+Name Server: ns4-42.azure-dns.info
+Name Server: dns1.p09.nsone.net
+Name Server: ns2-42.azure-dns.net
+Name Server: dns3.p09.nsone.net
+Name Server: dns4.p09.nsone.net
+Name Server: ns3-42.azure-dns.org
+Name Server: ns1-42.azure-dns.com
+DNSSEC: unsigned
+
+3) Whois information for youtube.com:
+---------------------------------------
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-01-14T09:59:58+0000
+Creation Date: 2005-02-15T05:13:12+0000
+Registrar Registration Expiration Date: 2025-02-15T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns2.google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+
+4) Whois information for facebook.com:
+---------------------------------------
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2023-04-26T19:04:19Z
+Creation Date: 1997-03-29T05:00:00Z
+Registrar Registration Expiration Date: 2032-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: email@registrarsafe.com
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID:
+Registrant Name: Domain Admin
+Registrant Organization: Meta Platforms, Inc.
+Registrant Street: 1601 Willow Rd
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Email: email@fb.com
+Registry Admin ID:
+Admin Name: Domain Admin
+Admin Organization: Meta Platforms, Inc.
+Admin Street: 1601 Willow Rd
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Email: email@fb.com
+Tech Name: Domain Admin
+Tech Organization: Meta Platforms, Inc.
+Tech Street: 1601 Willow Rd
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Email: email@fb.com
+Name Server: D.NS.FACEBOOK.COM
+Name Server: A.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+Name Server: C.NS.FACEBOOK.COM
+DNSSEC: unsigned
+
+5) Whois information for twitter.com:
+---------------------------------------
+Domain Name: twitter.com
+Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2024-01-17T01:10:05Z
+Creation Date: 2000-01-21T11:28:17Z
+Registrar Registration Expiration Date: 2025-01-21T16:28:17Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID:
+Registrant Name: Twitter, Inc.
+Registrant Organization: Twitter, Inc.
+Registrant Street: 1355 Market Street
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94103
+Registrant Country: US
+Registrant Phone: +1.4152229670
+Registrant Fax: +1.4152220922
+Registrant Email: email@twitter.com
+Admin Name: Domain Admin
+Admin Organization: Twitter, Inc.
+Admin Street: 1355 Market Street
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94103
+Admin Country: US
+Admin Phone: +1.4152229670
+Admin Fax: +1.4152220922
+Admin Email: email@twitter.com
+Tech Name: Tech Admin
+Tech Organization: Twitter, Inc.
+Tech Street: 1355 Market Street
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94103
+Tech Country: US
+Tech Phone: +1.4152229670
+Tech Fax: +1.4152220922
+Tech Email: email@twitter.com
+Name Server: c.u06.twtrdns.net
+Name Server: c.r06.twtrdns.net
+Name Server: a.u06.twtrdns.net
+Name Server: a.r06.twtrdns.net
+Name Server: d.r06.twtrdns.net
+Name Server: b.u06.twtrdns.net
+Name Server: b.r06.twtrdns.net
+Name Server: d.u06.twtrdns.net
+DNSSEC: unsigned

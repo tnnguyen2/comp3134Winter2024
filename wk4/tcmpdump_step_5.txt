@@ -1,0 +1,41 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 3 -XX -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:12:51.516195 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 3276668140:3276668268, ack 2048161881, win 501, options [nop,nop,TS val 329320828 ecr 795390382], length 128
+        0x0000:  fe00 0000 0101 4e83 3f1b 6b1e 0800 4510  ......N.?.k...E.
+        0x0010:  00b4 bb6b 4000 4006 f2d6 89b8 a103 a2f3  ...k@.@.........
+        0x0020:  be42 0016 a6fc c34d fcec 7a14 7859 8018  .B.....M..z.xY..
+        0x0030:  01f5 8c98 0000 0101 080a 13a1 097c 2f68  .............|/h
+        0x0040:  b1ae ba65 db6b fd88 2e47 8e98 da6e 4681  ...e.k...G...nF.
+        0x0050:  c4f1 512c 85d4 d779 ade9 97e9 6789 dce6  ..Q,...y....g...
+        0x0060:  0a49 57c2 ccf2 afaa b654 1a98 8c96 8584  .IW......T......
+        0x0070:  03b1 8f48 f181 5a90 bbb1 3b07 db8b 451c  ...H..Z...;...E.
+        0x0080:  b46b 18fe d559 e384 1a89 93f2 1779 5800  .k...Y.......yX.
+        0x0090:  9c08 06e3 0e3e e299 391d 8707 8217 40eb  .....>..9.....@.
+        0x00a0:  8239 2850 a038 c93a 1bdd 261a 93c8 8792  .9(P.8.:..&.....
+        0x00b0:  c782 84b8 4a7d 6a77 4257 2d12 8cff 218a  ....J}jwBW-...!.
+        0x00c0:  1f50                                     .P
+20:12:51.516265 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 128:192, ack 1, win 501, options [nop,nop,TS val 329320828 ecr 795390382], length 64
+        0x0000:  fe00 0000 0101 4e83 3f1b 6b1e 0800 4510  ......N.?.k...E.
+        0x0010:  0074 bb6c 4000 4006 f315 89b8 a103 a2f3  .t.l@.@.........
+        0x0020:  be42 0016 a6fc c34d fd6c 7a14 7859 8018  .B.....M.lz.xY..
+        0x0030:  01f5 8c58 0000 0101 080a 13a1 097c 2f68  ...X.........|/h
+        0x0040:  b1ae d40d 00ae 212c 5bda 9886 e4b7 b946  ......!,[......F
+        0x0050:  5592 432a bd53 329b 9fd8 e528 7508 fc0e  U.C*.S2....(u...
+        0x0060:  f36e 99a6 958e 73a1 4640 e4d2 95a5 6121  .n....s.F@....a!
+        0x0070:  9913 ae75 1def 5331 f870 1b2e e7de 8e62  ...u..S1.p.....b
+        0x0080:  bd5d                                     .]
+20:12:51.516299 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 192:272, ack 1, win 501, options [nop,nop,TS val 329320828 ecr 795390382], length 80
+        0x0000:  fe00 0000 0101 4e83 3f1b 6b1e 0800 4510  ......N.?.k...E.
+        0x0010:  0084 bb6d 4000 4006 f304 89b8 a103 a2f3  ...m@.@.........
+        0x0020:  be42 0016 a6fc c34d fdac 7a14 7859 8018  .B.....M..z.xY..
+        0x0030:  01f5 8c68 0000 0101 080a 13a1 097c 2f68  ...h.........|/h
+        0x0040:  b1ae 31df 8f5e c4a5 9de9 f9cc cd46 857c  ..1..^.......F.|
+        0x0050:  2dd2 d927 c671 31a7 4484 b500 2f9f 96eb  -..'.q1.D.../...
+        0x0060:  7d2f 8215 7b58 25c8 efd2 0d8d 5ed3 a5f7  }/..{X%.....^...
+        0x0070:  27f8 f64b 7edb 69e1 d45d 4980 0874 6859  '..K~.i..]I..thY
+        0x0080:  50be 6a67 9527 6df2 5114 4902 d435 27ea  P.jg.'m.Q.I..5'.
+        0x0090:  8e53                                     .S
+3 packets captured
+142 packets received by filter
+0 packets dropped by kernel

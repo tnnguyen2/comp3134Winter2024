@@ -1,0 +1,21 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -n -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:25:53.404731 IP 137.184.161.3.22 > 162.243.190.66.42748: Flags [P.], seq 3276759372:3276759436, ack 2048168089, win 501, options [nop,nop,TS val 330102716 ecr 796172274], length 64
+20:25:53.405050 IP 162.243.190.66.42748 > 137.184.161.3.22: Flags [.], ack 64, win 7437, options [nop,nop,TS val 796172281 ecr 330102716], length 0
+20:25:53.405605 IP 137.184.161.3.22 > 162.243.190.66.42748: Flags [P.], seq 64:192, ack 1, win 501, options [nop,nop,TS val 330102717 ecr 796172281], length 128
+20:25:53.405653 IP 137.184.161.3.22 > 162.243.190.66.42748: Flags [P.], seq 192:256, ack 1, win 501, options [nop,nop,TS val 330102717 ecr 796172281], length 64
+20:25:53.405691 IP 137.184.161.3.22 > 162.243.190.66.42748: Flags [P.], seq 256:336, ack 1, win 501, options [nop,nop,TS val 330102717 ecr 796172281], length 80
+20:25:53.405726 IP 137.184.161.3.22 > 162.243.190.66.42748: Flags [P.], seq 336:416, ack 1, win 501, options [nop,nop,TS val 330102717 ecr 796172281], length 80
+20:25:53.405760 IP 137.184.161.3.22 > 162.243.190.66.42748: Flags [P.], seq 416:496, ack 1, win 501, options [nop,nop,TS val 330102717 ecr 796172281], length 80
+20:25:53.405789 IP 137.184.161.3.22 > 162.243.190.66.42748: Flags [P.], seq 496:560, ack 1, win 501, options [nop,nop,TS val 330102717 ecr 796172281], length 64
+20:25:53.405906 IP 162.243.190.66.42748 > 137.184.161.3.22: Flags [.], ack 192, win 7437, options [nop,nop,TS val 796172282 ecr 330102717], length 0
+20:25:53.405963 IP 162.243.190.66.42748 > 137.184.161.3.22: Flags [.], ack 256, win 7437, options [nop,nop,TS val 796172282 ecr 330102717], length 0
+20:25:53.406002 IP 162.243.190.66.42748 > 137.184.161.3.22: Flags [.], ack 336, win 7437, options [nop,nop,TS val 796172282 ecr 330102717], length 0
+20:25:53.406070 IP 162.243.190.66.42748 > 137.184.161.3.22: Flags [.], ack 416, win 7437, options [nop,nop,TS val 796172282 ecr 330102717], length 0
+20:25:53.406087 IP 162.243.190.66.42748 > 137.184.161.3.22: Flags [.], ack 496, win 7437, options [nop,nop,TS val 796172282 ecr 330102717], length 0
+20:25:53.406087 IP 162.243.190.66.42748 > 137.184.161.3.22: Flags [.], ack 560, win 7437, options [nop,nop,TS val 796172282 ecr 330102717], length 0
+^C
+359 packets captured
+407 packets received by filter
+0 packets dropped by kernel

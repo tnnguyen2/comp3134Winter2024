@@ -1,0 +1,17 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 port 22
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+20:28:19.483496 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 3276874428:3276874556, ack 2048171545, win 501, options [nop,nop,TS val 330248795 ecr 796318353], length 128
+20:28:19.483588 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 128:272, ack 1, win 501, options [nop,nop,TS val 330248795 ecr 796318353], length 144
+20:28:19.483661 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 272:352, ack 1, win 501, options [nop,nop,TS val 330248795 ecr 796318353], length 80
+20:28:19.483702 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 352:432, ack 1, win 501, options [nop,nop,TS val 330248795 ecr 796318353], length 80
+20:28:19.483746 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 432:496, ack 1, win 501, options [nop,nop,TS val 330248795 ecr 796318353], length 64
+20:28:19.483842 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 128, win 7437, options [nop,nop,TS val 796318362 ecr 330248795], length 0
+20:28:19.483868 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 272, win 7437, options [nop,nop,TS val 796318362 ecr 330248795], length 0
+20:28:19.483924 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 352, win 7437, options [nop,nop,TS val 796318362 ecr 330248795], length 0
+20:28:19.483943 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 432, win 7437, options [nop,nop,TS val 796318362 ecr 330248795], length 0
+20:28:19.484016 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 496, win 7437, options [nop,nop,TS val 796318362 ecr 330248795], length 0
+^C
+10 packets captured
+47 packets received by filter
+0 packets dropped by kernel

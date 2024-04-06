@@ -1,0 +1,11 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping google.ca
+PING google.ca (172.217.1.3) 56(84) bytes of data.
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=1 ttl=120 time=1.77 ms
+64 bytes from iad23s25-in-f3.1e100.net (172.217.1.3): icmp_seq=2 ttl=120 time=0.900 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=3 ttl=120 time=0.769 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=4 ttl=120 time=0.835 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=5 ttl=120 time=0.685 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=6 ttl=120 time=0.664 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=7 ttl=120 time=0.697 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=8 ttl=120 time=0.693 ms
+64 bytes from yyz10s14-in-f3.1e100.net (172.217.1.3): icmp_seq=9 ttl=120 time=0.669 ms

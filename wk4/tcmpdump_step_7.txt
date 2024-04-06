@@ -1,0 +1,13 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+20:13:35.832805 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 3276680140:3276680204, ack 2048163737, win 501, options [nop,nop,TS val 329365144 ecr 795434693], length 64
+20:13:35.832903 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 64:144, ack 1, win 501, options [nop,nop,TS val 329365144 ecr 795434693], length 80
+20:13:35.832956 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 144:224, ack 1, win 501, options [nop,nop,TS val 329365144 ecr 795434693], length 80
+20:13:35.833004 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 224:304, ack 1, win 501, options [nop,nop,TS val 329365144 ecr 795434693], length 80
+20:13:35.833062 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.42748: Flags [P.], seq 304:368, ack 1, win 501, options [nop,nop,TS val 329365144 ecr 795434693], length 64
+20:13:35.833397 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 64, win 7437, options [nop,nop,TS val 795434703 ecr 329365144], length 0
+20:13:35.833398 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 144, win 7437, options [nop,nop,TS val 795434703 ecr 329365144], length 0
+20:13:35.833398 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 224, win 7437, options [nop,nop,TS val 795434703 ecr 329365144], length 0
+20:13:35.833398 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 304, win 7437, options [nop,nop,TS val 795434703 ecr 329365144], length 0
+20:13:35.833462 IP 162.243.190.66.42748 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 7437, options [nop,nop,TS val 795434703 ecr 329365144], length 0
+20:13:35.910819 IP 218.149.216.162.bc.googleusercontent.com.51351 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.8804: Flags [S], seq 3560693539, win 65535, options [mss 1460], length 0

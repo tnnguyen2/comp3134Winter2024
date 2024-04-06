@@ -1,0 +1,55 @@
+1) IP Address and Geolocation for https://www.georgebrown.ca
+-----------------------------------------------------------
+IP:         198.96.86.176
+Country: 	Canada
+State: 	    Ontario
+City: 	    Toronto
+Latitude: 	43.6502
+Longitude: 	-79.3975
+ISP: 	    The George Brown College of Applied Arts and Technology
+-----------------------------------------------------------
+
+2) IP Address and Geolocation for https://www.amazon.com
+-----------------------------------------------------------
+IP: 	    52.94.236.248
+Country: 	United States of America
+State: 	    Virginia
+City: 	    Ashburn
+Latitude: 	39.0394
+Longitude: 	-77.4918
+ISP: 	    Amazon Technologies Inc.
+-----------------------------------------------------------
+
+3) IP Address and Geolocation for https://www.github.com
+-----------------------------------------------------------
+IP: 	    140.82.113.3
+Country: 	United States of America
+State: 	    California
+City: 	    San Francisco
+Latitude: 	37.7757
+Longitude: 	-122.3952
+ISP: 	    GitHub Inc.
+-----------------------------------------------------------
+
+4) IP Address and Geolocation for https://www.instagram.com
+-----------------------------------------------------------
+IP: 	    157.240.241.174
+Country: 	United States of America
+State: 	    New York
+City: 	    New York City
+Latitude: 	40.7131
+Longitude: 	-74.0060
+ISP: 	    Facebook Inc.
+-----------------------------------------------------------
+
+
+5) IP Address and Geolocation for https://www.ebay.com
+-----------------------------------------------------------
+IP: 	    23.212.251.25
+Country: 	United States of America
+State:  	Virginia
+City: 	    Ashburn
+Latitude: 	39.0394
+Longitude: 	-77.4918
+ISP: 	    Akamai Technologies Inc.
+-----------------------------------------------------------
